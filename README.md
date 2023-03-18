@@ -2,7 +2,7 @@
 
 Graduate student in Computer Science from the Federal University of São Paulo (UNIFESP)
 
-- 🔭 I’m currently working on Data Science and fornt-end
+- 🔭 I’m currently working on Data Science and front-end
 - 🐝 Pronouns: she/her
 
 <div style="disply: inline_block"><br>
