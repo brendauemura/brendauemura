@@ -11,7 +11,7 @@ Graduate student in Computer Science from the Federal University of São Paulo (
   <img align="center" alt="Uem-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Uem-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Uem-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Uem-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/0d/cb/3e/0dcb3ef74cbe0959aa7e86fc3e1cca6e.png">
+  <img align="right" alt="Uem-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/q9LPx5F/1-E7-B43-BC-E8-BF-4751-9228-B19-F2-A5-D7-BAA.gif">
                                                                                  
 ##
 
